@@ -1,9 +1,5 @@
-group, ULTIMOS PROGRAMAS
-avi,¿Es amor o encaprichamiento?,https://download-a.akamaihd.net/files/content_assets/45/502016211_S_cnt_1_r720P.mp4,es
-avi,Patrick LaFranca: Jehová desea que seamos generosos (Prov. 3:27),https://download-a.akamaihd.net/files/media_broadcasting/1e/jwbmw_S_201601_01_r720P.mp4,es
-
-group, JW BROADCASTING
-avi,Diciembre,https://download-a.akamaihd.net/files/media_broadcasting/79/jwb_S_201512_01_r720P.mp4,es
-avi,Noviembre,https://download-a.akamaihd.net/files/media_broadcasting/84/jwb_S_201511_01_r720P.mp4,es
+#EXTM3U
+#EXTINF:0 tvg-name="BBC" audio-track="eng" tvg-logo="http://mylogos.domain/BBC.png", BBC World
+https://download-a.akamaihd.net/files/media_broadcasting/1e/jwbmw_S_201601_01_r720P.mp4
 
 

@@ -135,10 +135,5 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?=%2F.ts
 #EXTINF:-1 channelId=\"1328\" , FOX 2 SPORTS
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?=%2F.ts
-#EXTINF:-1 channelId=\"82\" , Eurosport
-http://fr978.edem.tv/iptv/AZAZZ72ELRUM5G/527/index.m3u8
-#EXTINF:-1 channelId=\"83\" , Eurosport 2
-http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8
-#EXTINF:-1 channelId=\"320\" , Eurosport News
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+
 

@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <playlist version="1" xmlns="http://xspf.org/ns/0/">
   <trackList>
-    <track>
-      <title>Internal Example</title>
-      <location>file:///C:/music/foo.mp3</location>
-    </track>
-    <track>
-      <title>cancion_1.mp3</title>
-      <location>file:///mp3s/canción_1.mp3</location>
-    </track>
-    <track>
-      <title>¿Es amor o encaprichamiento?</title>
-      <location>https://download-a.akamaihd.net/files/content_assets/45/502016211_S_cnt_1_r720P.mp4</location>
-      <image>http://www.3mariasgrow.com/725-home_default/caja-pequena-240-x-200-x-140-mm-10-unidades.jpg</image>
-    </track>
+<track>
+    <title>FOX</title>
+      <location>latino-webtv.ml/mariocs.php?ch=201&cl=03</location>
+      <image></image>
+     </track>
+<title>HISTORY</title>
+      <location>latino-webtv.ml/mariocs.php?ch=353&cl=03</location>
+      <image></image>
+     </track>
   </trackList>
-</playlist>
+  </playlist>
 
 
